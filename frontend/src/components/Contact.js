@@ -27,7 +27,7 @@ export const Contact = () => {
     e.preventDefault();
     setButtonText("Sending...");
     const response = await fetch(
-      "https://personal-portfolio-phi-umber.vercel.app/",
+      "https://personal-portfolio-phi-umber.vercel.app/contact",
       {
         method: "POST",
         headers: {
