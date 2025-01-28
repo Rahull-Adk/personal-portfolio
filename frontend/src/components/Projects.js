@@ -13,7 +13,7 @@ export const Projects = () => {
       title: "Ecommerce",
       description: "Backend & Development",
       imgUrl: projImg1,
-      link: "https://github.com/Rahull-Adk/Ecommerce/",
+      link: "https://github.com/Rahull-Adk/EcommerceBackend/",
     },
     {
       title: "Twitter-Clone",
@@ -46,7 +46,7 @@ export const Projects = () => {
                     I am experienced with multiple backend structure with
                     includes User Authentications, CRUD operations, Securities,
                     and Mongo Database queries. Currently Learning more about
-                    the payment gateway system with stripes.
+                    the payment gateway system with stripes. The focus tech stack is C# and .Net
                   </p>
                   <Tab.Container id="projects-tabs" defaultActiveKey="first">
                     <Tab.Content
