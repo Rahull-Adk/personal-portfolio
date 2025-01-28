@@ -44,6 +44,25 @@ export const Skills = () => {
                 infinite={true}
                 className="owl-carousel owl-theme skill-slider"
               >
+                  <div className="item">
+                  <img src={meter1} alt="Image" />
+                  <h5>C#</h5>
+                </div>
+
+                  <div className="item">
+                  <img src={meter2} alt="Image" />
+                  <h5>Asp.Net Core</h5>
+                </div>
+
+                                    <div className="item">
+                  <img src={meter2} alt="Image" />
+                  <h5>.Net</h5>
+                </div>
+
+                                    <div className="item">
+                  <img src={meter3} alt="Image" />
+                  <h5>SQL</h5>
+                </div>
                 <div className="item">
                   <img src={meter1} alt="Image" />
                   <h5>Javascript</h5>
