@@ -75,7 +75,7 @@ export const NavBar = () => {
                 <a
                   target="_blank"
                   rel="noreferrer"
-                  href="https://www.linkedin.com/in/raahull-adk-a1531632a/"
+                  href="https://linkedin.com/in/shane-htet-aung-59065b269"
                 >
                   <img src={navIcon1} alt="Icon" />
                 </a>
